@@ -1,0 +1,18 @@
+{
+  "cookies": {
+    "auth_token": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIxODAwMzI3OTg4MSIsImlhdCI6MTc1MzY5MDAyNywiZXhwIjoxNzU2MjgyMDI3fQ.px6YChgLEXjrs9REVr6wxesiCqewAgwVtcE1pyM8jIC6FqiBWdG2x55-ETfoEAZHMAZ0hdCkwu-uIvLgfMCg6Q",
+    "csrfToken": "Gzs0GHPZ2isNeUBYdvSoVQs5",
+    "TYCID": "bf8bb0e06b8911f0b575d5a80aadaa7a",
+    "bannerFlag": "true",
+    "bannerHide": "18003279881",
+    "CUID": "bc8604b9c80826152032423514ee7a3d",
+    "Hm_lpvt_e92c8d65d92d534b0fc290df538b4758": "1753692155",
+    "Hm_lvt_e92c8d65d92d534b0fc290df538b4758": "1753689984",
+    "HMACCOUNT": "4F12C6E3DA7118A5",
+    "searchSessionId": "1753692152.23365105",
+    "tyc-user-info": "%7B%22state%22%3A%220%22%2C%22vipManager%22%3A%220%22%2C%22mobile%22%3A%2218003279881%22%2C%22userId%22%3A%22350551598%22%7D",
+    "tyc-user-info-save-time": "1753690028311",
+    "HWWAFSESID": "dbb8219636e7fdbe60a",
+    "HWWAFSESTIME": "1753689977708"
+  }
+}
