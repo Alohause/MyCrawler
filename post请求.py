@@ -4,8 +4,8 @@ import urllib.parse,urllib.request
 
 url = "http://www.douban.com/"
 data = {
-    'name' : '18003279881',
-    'password' : 'jNz.WRB8a8Y5FRs'
+    'name' : 'ur_name',
+    'password' : 'ur_psw'
 }
 data = urllib.parse.urlencode(data).encode('utf-8')      # 编码工作，由 dict 转换成 str
 req = urllib.request.Request(url = url, data = data)
@@ -36,8 +36,8 @@ driver.find_element(By.CLASS_NAME, "account-tab-account").click()
 
 # 输入账号和密码
 time.sleep(1)
-driver.find_element(By.ID, "username").send_keys("18003279881")
-driver.find_element(By.ID, "password").send_keys("jNz.WRB8a8Y5FRs")
+driver.find_element(By.ID, "username").send_keys("ur_name")
+driver.find_element(By.ID, "password").send_keys("ur_psw")
 
 input("请完成滑块验证并登录成功后，按回车继续...")
 
