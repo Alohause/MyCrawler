@@ -22,7 +22,7 @@
 ## 使用说明
 - 修改脚本中 bv_id 为你想抓取的 Bilibili 视频 BV 号。
 - 确保项目目录下有：字体文件 **msyh.ttc** （微软雅黑字体）、停用词表 **stopwords.txt**
-- 运行脚本，程序会抓取评论，生成 **z.csv** 评论数据文件和词云图 **wordcloud.png**
+- 运行脚本，程序会抓取评论，生成 **bilibili_comments.csv** 评论数据文件和词云图 **wordcloud.png**
 
 ---
 
@@ -30,7 +30,7 @@
 - **chat.py** ：主程序脚本
 - **stopwords.txt** ：中文停用词表，用于过滤无效词汇
 - **msyh.ttc** ：字体文件，保证词云中文正常显示
-- **z.csv** ：抓取的评论数据（可删除或加入 .gitignore）
+- **bilibili_comments.csv** ：抓取的评论数据（可删除或加入 .gitignore）
 - **wordcloud.png** ：生成的词云图像文件
 
 ---
