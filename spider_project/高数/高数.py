@@ -57,7 +57,7 @@ def GetContent(offset=None):
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
         "Referer": f"https://www.bilibili.com/video/BV1Eb411u7Fw",
-        "Cookie": "buvid3=30736EE2-A652-E843-8C7D-15FE334C093F14237infoc; b_nut=1735885814; _uuid=1010A8361E-B5DD-D5F10-5391-A783313E5561018656infoc; buvid_fp=425266f78c3c2f111610da9f9f5ae6e9; enable_web_push=DISABLE; buvid4=BBBD8F19-8486-37EB-4294-33462F13D3AC15545-025010306-nxcshLGrW5u1Uw0JyWmFjA%3D%3D; rpdid=|(u)YJklml)l0J'u~Jl))l)Jl; DedeUserID=412705110; DedeUserID__ckMd5=a21e4dc448f741eb; theme-tip-show=SHOWED; b_lsid=3CC91929_1985FD371EF; bsource=search_google; home_feed_column=4; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NTQyMTM1NTAsImlhdCI6MTc1Mzk1NDI5MCwicGx0IjotMX0.yjIXZHWrcswv4Ki6tXpnDM9Fe6pAd4ReU0EtzYCl3_Y; bili_ticket_expires=1754213490; SESSDATA=09bad035%2C1769506351%2Ccac98%2A71CjC67iLid2MGHy17K0ZJksdVKpveTZf4hurBEgyrY5N_xG894u8sGGDJIf-Hym0M1zQSVkotMFJMVUFrNXVaZURKZWdaZVlJRGN2cTFwdmFLQWVPMm0zd3Z5bm5ORy1NcmN5ZUhoeVJtdUFJM3BYNmhxN1RmLWIzVW4yandKOWhuakJ5TUY0Y2xRIIEC; bili_jct=a3da3c6928d5acd35de10ebd4943b463; theme-avatar-tip-show=SHOWED; bp_t_offset_412705110=1095714666232938496; browser_resolution=548-648; sid=5aa2tfax; CURRENT_FNVAL=4048; CURRENT_QUALITY=0",
+        "Cookie": " ",
     }
 
     # 请求参数
